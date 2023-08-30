@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lesson-2-cards/static/css/main.9ac6df7b.css",
+    "main.js": "/react-lesson-2-cards/static/js/main.a2ef3cae.js",
+    "index.html": "/react-lesson-2-cards/index.html",
+    "main.9ac6df7b.css.map": "/react-lesson-2-cards/static/css/main.9ac6df7b.css.map",
+    "main.a2ef3cae.js.map": "/react-lesson-2-cards/static/js/main.a2ef3cae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ac6df7b.css",
+    "static/js/main.a2ef3cae.js"
+  ]
+}
