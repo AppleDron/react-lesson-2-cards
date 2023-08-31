@@ -8,3 +8,4 @@ export const App = () => {
     <EventBoard events={events } />
   </div>;
 };
+
